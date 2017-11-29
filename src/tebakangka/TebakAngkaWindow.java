@@ -119,9 +119,9 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
             } else {
                 String message;
                 if (tebakan < angkaSoal) {
-                    message = "Angka terlalu kecil. Coba lagi!";
+                    message = "Angka terlalu kecil. Coba lagi yaa!";
                 } else {
-                    message = "Angka terlalu besar. Coba lagi!";
+                    message = "Angka terlalu besar. Coba lagi yaa!";
                 }
                 petunjukLabel1.setText(message);
             }
